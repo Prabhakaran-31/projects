@@ -1,0 +1,37 @@
+a:link,a:visited{
+    font-family: 'Orienta', sans-serif;
+    text-decoration: none;
+    color: teal;
+}
+b{
+    color: gray;
+}
+.news:link, .news:visited {
+    background-color: #75daad;
+    color: black;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 1px ;
+}
+.newss:link, .newss:visited {
+    background-color: whitesmoke;
+}  
+.news:hover, .news:active {
+    background-color: white;
+}
+.brand:link{
+    color: #75daad;
+    font-size: 30px;
+}
+i{
+    font-size: 50px;
+}
+h1{
+    font-family: 'Encode Sans Semi Condensed', sans-serif;
+    color: gray;
+}
+footer{
+    background-color: #0f4c81;
+}
